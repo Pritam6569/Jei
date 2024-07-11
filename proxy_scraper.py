@@ -30,7 +30,7 @@ def main():
         "https://free-proxy-list.net/uk-proxy.html",
         "http://free-proxy.cz/en/proxylist/country/US/https/ping/all",
         "https://www.proxynova.com/proxy-server-list/",
-        "http://spys.one/en/https-ssl-proxy/"
+      
     ]
 
     all_proxies = []
